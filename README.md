@@ -9,6 +9,7 @@
 HivePass is a lightweight browser extension for internal testing environments. It stores and auto‑fills **non‑personal** credentials for websites under development at your IT firm, so devs/testers don’t have to ask around for access.
 
 ---
+https://github.com/user-attachments/assets/579d7c63-ee08-4085-8f1f-eec585355907
 
 ## 🚀 Core Features
 
